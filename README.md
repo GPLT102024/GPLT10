@@ -57,16 +57,15 @@
     <h1>Welcome to GPL 2024 T10!</h1>
     <div class="team">
         <div class="team-name">Sunrising Indians</div>
-        <div class="player">Player 1: Tinesh (Captain)</div>
-        <div class="player">Player 2: Surya Teja</div>
-        <div class="player">Player 3: Yashasu</div>
+        <div class="player"><a href="https://example.com/tinesh" style="color: #FFFF00; text-decoration: none;">Player 1: Tinesh (Captain)</a></div>
+        <div class="player"><a href="https://example.com/surya-teja" style="color: #FFFF00; text-decoration: none;">Player 2: Surya Teja</a></div>
+        <div class="player"><a href="https://example.com/yashasu" style="color: #FFFF00; text-decoration: none;">Player 3: Yashasu</a></div>
     </div>
     <div class="team">
         <div class="team-name">Knight Mega Kings</div>
-        <div class="player">Player 1:Krithik</div>
-        <div class="player">Player 2: Jashwanth</div>
-        <div class="player">Player 3: Vaibav</div>
+        <div class="player"><a href="https://example.com/krithik" style="color: #FFFF00; text-decoration: none;">Player 1: Krithik</a></div>
+        <div class="player"><a href="https://example.com/jashwanth" style="color: #FFFF00; text-decoration: none;">Player 2: Jashwanth</a></div>
+        <div class="player"><a href="https://example.com/vaibav" style="color: #FFFF00; text-decoration: none;">Player 3: Vaibav</a></div>
     </div>
 </body>
 </html>
-
