@@ -57,15 +57,15 @@
     <h1>Welcome to GPL 2024 T10!</h1>
     <div class="team">
         <div class="team-name">Sunrising Indians</div>
-        <div class="player"><a href="https://example.com/tinesh" style="color: #FFFF00; text-decoration: none;">Player 1: Tinesh (Captain)</a></div>
-        <div class="player"><a href="https://example.com/surya-teja" style="color: #FFFF00; text-decoration: none;">Player 2: Surya Teja</a></div>
-        <div class="player"><a href="https://example.com/yashasu" style="color: #FFFF00; text-decoration: none;">Player 3: Yashasu</a></div>
+        <div class="player"><a href="https://gullypl.github.io/resume/Tinesh.html" style="color: #FFFF00; text-decoration: none;">Player 1: Tinesh (Captain)</a></div>
+        <div class="player"><a href="https://gullypl.github.io/resume/payerinfo.html" style="color: #FFFF00; text-decoration: none;">Player 2: Surya Teja</a></div>
+        <div class="player"><a href="https://gullypl.github.io/resume/Yashasu.html" style="color: #FFFF00; text-decoration: none;">Player 3: Yashasu</a></div>
     </div>
     <div class="team">
         <div class="team-name">Knight Mega Kings</div>
-        <div class="player"><a href="https://example.com/krithik" style="color: #FFFF00; text-decoration: none;">Player 1: Krithik</a></div>
-        <div class="player"><a href="https://example.com/jashwanth" style="color: #FFFF00; text-decoration: none;">Player 2: Jashwanth</a></div>
-        <div class="player"><a href="https://example.com/vaibav" style="color: #FFFF00; text-decoration: none;">Player 3: Vaibav</a></div>
+        <div class="player"><a href="https://gullypl.github.io/resume/Krithik.html" style="color: #FFFF00; text-decoration: none;">Player 1: Krithik</a></div>
+        <div class="player"><a href="https://gullypl.github.io/resume/Krishika.html" style="color: #FFFF00; text-decoration: none;">Player 2: Jashwanth></a></div>
+        <div class="player"><a href="https://gullypl.github.io/resume/Krishika.html" style="color: #FFFF00; text-decoration: none;">Player 3: Vaibav</a></div>
     </div>
 </body>
 </html>
